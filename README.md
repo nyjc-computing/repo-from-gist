@@ -1,9 +1,15 @@
 # repo-from-gist
 Template for creating a repository from a (public) gist
 
+# Instructions
+
+1. From the GitHub link (https://github.com/nyjc-computing/repo-from-gist), click **Use this template > Create a new repository**. Name this repository according to what the gist will contain.
+2. Open the repository in a codespace.
+3. Follow the instructions below.
+
 # Usage
 
-```bash
+```sh
 $ python import-gist.py
 ```
 
@@ -15,7 +21,7 @@ Upon successful execution, this script will remove its contents, leaving the con
 
 # Example
 
-```bash
+```
 $ python import_gist.py
 Enter gist url: https://gist.github.com/nycomp/3a52fb7f85492ad4fc1787501538c6bd
 Cloning https://gist.github.com/nycomp/3a52fb7f85492ad4fc1787501538c6bd ...
