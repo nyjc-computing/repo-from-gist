@@ -3,7 +3,8 @@ Template for creating a repository from a (public) gist
 
 # Instructions
 
-1. From the GitHub link (https://github.com/nyjc-computing/repo-from-gist), click **Use this template > Create a new repository**. Name this repository according to what the gist will contain.
+1a. From the GitHub link (https://github.com/nyjc-computing/repo-from-gist), click **Use this template > Create a new repository**. Name this repository according to what the gist will contain.
+1b. Alternatively, [create a new repository from this template](https://github.com/new?template_name=repo-from-gist&template_owner=nyjc-computing).
 2. Open the repository in a codespace.
 3. Follow the instructions below.
 
